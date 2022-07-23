@@ -38,6 +38,12 @@
 
 @media screen and (max-width: 1024px) {
     
-
+    .footerzada-titulo {
+        margin: 0 1em;
+    }
+    
+    .footerzada-text {
+        margin: 0 1em;
+    }
 
 }

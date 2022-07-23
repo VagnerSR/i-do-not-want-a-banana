@@ -2,29 +2,29 @@ import React, { useState } from 'react';
 import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd';
 import './bananaArea.css';
 
-
+const bananaIMG = require('../assets/banana.png')
 
 const BananaList = [
 
     {
         id: 'banana1',
         name: 'Banana',
-        thumb: '/images/banana.png'
+        thumb: bananaIMG
     },
     {
         id: 'banana2',
         name: 'Banana',
-        thumb: '/images/banana.png'
+        thumb: bananaIMG
     },
     {
         id: 'banana3',
         name: 'Banana',
-        thumb: '/images/banana.png'
+        thumb: bananaIMG
     },
     {
         id: 'banana4',
         name: 'Banana',
-        thumb: '/images/banana.png'
+        thumb: bananaIMG
     },
 ]
 

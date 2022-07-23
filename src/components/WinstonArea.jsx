@@ -59,6 +59,7 @@ function WinstonArea() {
         <div className='winston-area'>
 
             <img onMouseUp={iDoNotWantABanana}
+                 onTouchEnd={iDoNotWantABanana}
                 onMouseOver={theMouseIsOver}
                 onMouseOut={theMouseIsOut}
                 className='winston-img'
