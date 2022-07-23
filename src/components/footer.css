@@ -1,0 +1,43 @@
+.footerzada {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+
+    
+    
+    background: linear-gradient(to right, #434343 0%, rgb(34, 33, 33) 100%);
+    
+}
+
+.footerzada-titulo {
+    text-align: center;
+    font-family: 'Sarala', sans-serif;
+    font-weight: 200;
+    color: ivory;
+    font-size: 16px;
+}
+
+.footerzada-text {
+    font-family: 'Sarala', sans-serif;
+    text-align: center;
+    color: ivory;
+    font-size: 16px;
+}
+
+
+.footerzada-link {
+    color: ivory;
+    text-decoration: none;
+}
+
+
+.footerzada-link:hover {
+    color: black;
+}
+
+
+@media screen and (max-width: 1024px) {
+    
+
+
+}

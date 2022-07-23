@@ -1,0 +1,51 @@
+.winston-area {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10em;
+
+}
+
+
+
+
+.party-mode {
+    margin-top: 1.5em;
+    align-self: center;
+    background-color: rgb(199, 199, 199);
+    width: 150px;
+    height: 50px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-family: 'Sarala', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #2f2325;
+    transition-duration: 1s;
+}
+
+.party-mode:hover {
+    background-color: rgb(151, 150, 150);
+    color: #110a0b;
+
+}
+
+
+@media screen and (max-width: 1024px) {
+    .winston-area {
+        margin: auto;
+        margin-top: 2em;
+    }
+
+
+    .winston-img {
+        max-width: 80vw;
+    }
+
+
+    .party-mode {
+        width: 120px;
+        height: 40px;
+        font-size: 18px;
+    }
+}

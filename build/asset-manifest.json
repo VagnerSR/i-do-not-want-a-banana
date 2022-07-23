@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/i-do-not-want-a-banana/static/css/main.856bfb4e.css",
+    "main.js": "/i-do-not-want-a-banana/static/js/main.abc0294b.js",
+    "static/media/nobanana.mp3": "/i-do-not-want-a-banana/static/media/nobanana.7f5ff7a4e26d06db5a27.mp3",
+    "static/media/lwinstontalking.png": "/i-do-not-want-a-banana/static/media/lwinstontalking.71a1fc918581032d1f5d.png",
+    "static/media/partymode.png": "/i-do-not-want-a-banana/static/media/partymode.9bb71b29d40e0b04d435.png",
+    "index.html": "/i-do-not-want-a-banana/index.html",
+    "main.856bfb4e.css.map": "/i-do-not-want-a-banana/static/css/main.856bfb4e.css.map",
+    "main.abc0294b.js.map": "/i-do-not-want-a-banana/static/js/main.abc0294b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.856bfb4e.css",
+    "static/js/main.abc0294b.js"
+  ]
+}

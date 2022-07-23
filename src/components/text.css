@@ -1,0 +1,11 @@
+.text-area {
+    display: flex;
+    justify-content: center;
+    background-color: #fafafa;
+}
+
+.text-text {
+    font-family: 'Sarala', sans-serif;
+    font-size: 1.3em;
+    color: rgb(63, 58, 58);
+}
