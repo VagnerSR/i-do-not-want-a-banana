@@ -32,36 +32,31 @@ function WinstonArea() {
     }
 
 
-    var soundIsPlayable = false
+    
 
     function iDoNotWantABanana() {
-        if (soundIsPlayable === true) {
+       
             callMySound(soundSrc);
            
             setWinstonIMG(winstonTalking)
             
             console.log("Não, eu não quero uma banana.")
-        }
+       
 
     }
 
+    
 
-    function theMouseIsOver() {
-        soundIsPlayable = true
-    }
+   
 
-    function theMouseIsOut() {
-        soundIsPlayable = false
-    }
-
+    
 
     return (
         <div className='winston-area'>
 
             <img onMouseUp={iDoNotWantABanana}
-                 onTouchEnd={iDoNotWantABanana}
-                onMouseOver={theMouseIsOver}
-                onMouseOut={theMouseIsOut}
+                
+                
                 className='winston-img'
                 src={winstonIMG}
                 alt="Winston" id='winston' />

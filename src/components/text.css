@@ -4,8 +4,26 @@
     background-color: #fafafa;
 }
 
-.text-text {
+.text-pc {
     font-family: 'Sarala', sans-serif;
     font-size: 1.3em;
     color: rgb(63, 58, 58);
+}
+
+.text-mobile {
+    display: none;
+}
+
+
+@media screen and (max-width: 1024px) {
+    .text-pc{
+        display: none;
+    }
+
+    .text-mobile{
+        display: block;
+        font-family: 'Sarala', sans-serif;
+        font-size: 1.3em;
+        color: rgb(63, 58, 58);
+    }
 }
