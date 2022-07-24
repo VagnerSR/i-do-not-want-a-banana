@@ -1,9 +1,8 @@
 import React from 'react';
 import './App.css';
-import Container from './components/Container';
-import Footer from './components/Footer';
-import Header from './components/Header';
-import Text from './components/Text';
+import LanguageMenu from './components/LanguageMenu';
+import Content from './components/Content';
+import { BrowserRouter as Router } from 'react-router-dom'
 
 
 function App() {
@@ -11,10 +10,10 @@ function App() {
 
   return (
     <div className="App">
-      <Header />
-      <Text />
-      <Container />
-      <Footer />
+      <Router>
+      <LanguageMenu />
+      <Content />
+      </Router>
     </div>
   );
 }

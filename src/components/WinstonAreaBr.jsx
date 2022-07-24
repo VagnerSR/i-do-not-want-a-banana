@@ -5,15 +5,15 @@ import './winstonArea.css';
 
 
 const chillWinston = require('../assets/chillwinston.png')
-const partyModeWinston = require('../assets/partymode2.png')
-const winstonTalking = require('../assets/lwinstontalking.png')
+const partyModeWinston = require('../assets/modofesta.png')
+const winstonTalking = require('../assets/winstonfalando.png')
 
 
 function WinstonArea() {
     const [winstonIMG, setWinstonIMG] = useState(chillWinston)
 
-    const soundSrcBanana = require('../assets/nobanana.mp3')
-    const soundSrcParty = require('../assets/partymode.mp3')
+    const soundSrcBanana = require('../assets/naoquerobanana.mp3')
+    const soundSrcParty = require('../assets/modofestaativado.mp3')
 
 
    
@@ -79,7 +79,7 @@ function WinstonArea() {
                 alt="Winston" id='winston' />
 
             <button onClick={partyMode}
-                className='party-mode'>Party mode</button>
+                className='party-mode'>Modo festa</button>
 
         </div>
 

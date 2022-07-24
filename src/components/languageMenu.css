@@ -1,0 +1,29 @@
+.language-area {
+    background-color: #e6e4e4;
+    
+}
+
+.language-buton {
+    background-color: rgb(199, 199, 199);
+    width: 120px;
+    height: 40px;
+    border: none;
+    font-family: 'Sarala', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #2f2325;
+    transition-duration: 1s;
+}
+
+.language-buton:hover {
+    background-color: rgb(151, 150, 150);
+    color: #110a0b;
+
+}
+
+
+
+a {
+    text-decoration: none;
+    color: #110a0b;
+}
