@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/i-do-not-want-a-banana/static/css/main.0c2250f7.css",
-    "main.js": "/i-do-not-want-a-banana/static/js/main.c35236a6.js",
+    "main.js": "/i-do-not-want-a-banana/static/js/main.c5b92e0a.js",
     "static/media/banana.png": "/i-do-not-want-a-banana/static/media/banana.0b7db7cb6457cafa70dc.png",
     "static/media/nobanana.mp3": "/i-do-not-want-a-banana/static/media/nobanana.7f5ff7a4e26d06db5a27.mp3",
     "static/media/modofesta.png": "/i-do-not-want-a-banana/static/media/modofesta.867f15632db442c86878.png",
@@ -13,10 +13,10 @@
     "static/media/partymode.mp3": "/i-do-not-want-a-banana/static/media/partymode.95d2f48222d6dcce4b9d.mp3",
     "index.html": "/i-do-not-want-a-banana/index.html",
     "main.0c2250f7.css.map": "/i-do-not-want-a-banana/static/css/main.0c2250f7.css.map",
-    "main.c35236a6.js.map": "/i-do-not-want-a-banana/static/js/main.c35236a6.js.map"
+    "main.c5b92e0a.js.map": "/i-do-not-want-a-banana/static/js/main.c5b92e0a.js.map"
   },
   "entrypoints": [
     "static/css/main.0c2250f7.css",
-    "static/js/main.c35236a6.js"
+    "static/js/main.c5b92e0a.js"
   ]
 }
