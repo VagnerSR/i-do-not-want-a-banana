@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/i-do-not-want-a-banana/static/css/main.c470c406.css",
-    "main.js": "/i-do-not-want-a-banana/static/js/main.c489cf2a.js",
+    "main.css": "/i-do-not-want-a-banana/static/css/main.0c2250f7.css",
+    "main.js": "/i-do-not-want-a-banana/static/js/main.17d72d88.js",
     "static/media/banana.png": "/i-do-not-want-a-banana/static/media/banana.0b7db7cb6457cafa70dc.png",
     "static/media/nobanana.mp3": "/i-do-not-want-a-banana/static/media/nobanana.7f5ff7a4e26d06db5a27.mp3",
+    "static/media/modofesta.png": "/i-do-not-want-a-banana/static/media/modofesta.867f15632db442c86878.png",
+    "static/media/partymode2.png": "/i-do-not-want-a-banana/static/media/partymode2.d7a532dd7ba27cfb9f68.png",
+    "static/media/naoquerobanana.mp3": "/i-do-not-want-a-banana/static/media/naoquerobanana.f80eb278e63184bf2f6b.mp3",
+    "static/media/winstonfalando.png": "/i-do-not-want-a-banana/static/media/winstonfalando.f26cfb1003b4488cf6fd.png",
     "static/media/lwinstontalking.png": "/i-do-not-want-a-banana/static/media/lwinstontalking.71a1fc918581032d1f5d.png",
-    "static/media/partymode.png": "/i-do-not-want-a-banana/static/media/partymode.9bb71b29d40e0b04d435.png",
+    "static/media/modofestaativado.mp3": "/i-do-not-want-a-banana/static/media/modofestaativado.3a4d330fddef2436eba4.mp3",
+    "static/media/partymode.mp3": "/i-do-not-want-a-banana/static/media/partymode.95d2f48222d6dcce4b9d.mp3",
     "index.html": "/i-do-not-want-a-banana/index.html",
-    "main.c470c406.css.map": "/i-do-not-want-a-banana/static/css/main.c470c406.css.map",
-    "main.c489cf2a.js.map": "/i-do-not-want-a-banana/static/js/main.c489cf2a.js.map"
+    "main.0c2250f7.css.map": "/i-do-not-want-a-banana/static/css/main.0c2250f7.css.map",
+    "main.17d72d88.js.map": "/i-do-not-want-a-banana/static/js/main.17d72d88.js.map"
   },
   "entrypoints": [
-    "static/css/main.c470c406.css",
-    "static/js/main.c489cf2a.js"
+    "static/css/main.0c2250f7.css",
+    "static/js/main.17d72d88.js"
   ]
 }
