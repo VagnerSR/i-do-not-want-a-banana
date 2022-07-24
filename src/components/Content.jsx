@@ -13,8 +13,9 @@ function Content() {
 
                <Routes>
                
-               <Route path="/eng" element={<ContentEng />} />
-               <Route path="/pt" element={<ContentBR />} />
+               <Route path="/i-do-not-want-a-banana/eng" element={<ContentEng />} />
+               <Route path="/i-do-not-want-a-banana/pt" element={<ContentBR />} />
+               <Route path="/i-do-not-want-a-banana/" element={<ContentEng />} />
                <Route path="/" element={<ContentEng />} />
 
                </Routes>
