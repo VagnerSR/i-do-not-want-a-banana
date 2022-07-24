@@ -14,7 +14,7 @@ function FooterBr() {
                 </h2>
             
 
-                <p className='footerzada-text'>Feed Winston foi criado por Vagner Rosnoski.   <a className='footerzada-git footerzada-link' href='https://leekspin.ytmnd.com/'><FaGithub  /></a></p> 
+                <p className='footerzada-text'>Feed Winston foi criado por Vagner Rosnoski.   <a className='footerzada-git footerzada-link' href='https://github.com/VagnerSR'><FaGithub  /></a></p> 
                 
 
             
