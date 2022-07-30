@@ -9,7 +9,7 @@ Project was made with React
 
 react-router to switch languages: https://reactrouter.com/
 
-react-beautiful-dnd to make the banana list: https://github.com/atlassian/react-beautiful-dnd
+react-beautiful-dnd to make the banana list: https://github.com/atlassian/react-beautiful-dnd / https://www.youtube.com/watch?v=aYZRRyukuIw
 
 react-icon for icons: https://react-icons.github.io/react-icons
 
