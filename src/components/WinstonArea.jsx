@@ -20,7 +20,7 @@ function WinstonArea() {
 
     useEffect(function () {
         setInterval(() => setWinstonIMG(chillWinston), 5000)
-    }, [])
+    }, [winstonIMG])
 
 
 

@@ -1,24 +1,70 @@
-.language-area {
-    background-color: #e6e4e4;
+.topHead {
+    background: linear-gradient(#e6e4e4 0%, #fafafa 100%);
+    display: flex;
+    justify-content: space-between;
     
 }
 
-.language-buton {
-    background-color: rgb(199, 199, 199);
-    width: 120px;
+.troll {
+    width: 100px;
+}
+
+
+.menu-container {
+    margin-top: 2em;
+    margin-left: 2em;
+}
+
+
+.menu-button {
+    cursor: pointer;
+    width: 50px;
     height: 40px;
+}
+
+.menu.active{
+    opacity: 1;
+    visibility: visible;
+}
+
+.menu {
+    opacity: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+
+.language-buton {
+    padding: 0.4em;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background: rgb(199, 199, 199);
+    list-style: none;
     border: none;
     font-family: 'Sarala', sans-serif;
-    font-weight: 400;
-    font-size: 20px;
     color: #2f2325;
     transition-duration: 1s;
 }
 
-.language-buton:hover {
+.language-buton-item:hover {
     background-color: rgb(151, 150, 150);
     color: #110a0b;
 
+}
+
+
+
+.headerzada-title {
+    font-family: 'Righteous', cursive;
+    color: rgb(63, 58, 58);
+    font-size: 2.5em;
+    text-align: center;
+    
 }
 
 

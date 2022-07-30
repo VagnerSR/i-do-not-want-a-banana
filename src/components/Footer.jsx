@@ -14,7 +14,7 @@ function Footer() {
                 </h2>
             
 
-                <p className='footerzada-text'>Feed Winston was created by Vagner Rosnoski.   <a className='footerzada-git footerzada-link' href='https://github.com/VagnerSR'><FaGithub  /></a></p> 
+                <p className='footerzada-text'>By Vagner Rosnoski.   <a className='footerzada-git footerzada-link' href='https://github.com/VagnerSR'><FaGithub  /></a></p> 
                 
 
             

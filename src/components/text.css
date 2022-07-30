@@ -27,3 +27,18 @@
         color: rgb(63, 58, 58);
     }
 }
+
+
+@media screen and (max-width: 1300px) {
+    .text-pc{
+        display: none;
+    }
+
+
+    .text-mobile{
+        display: block;
+        font-family: 'Sarala', sans-serif;
+        font-size: 1.3em;
+        color: rgb(63, 58, 58);
+    }
+}

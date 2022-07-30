@@ -44,3 +44,18 @@
         height: 3em;
     }
 }
+
+
+@media screen and (max-width: 1300px) {
+    .bananas {
+        display: flex;
+        flex-direction: row;
+        margin-right: 1em;
+    }
+
+
+    .bananas-thumb {
+        width: 3em;
+        height: 3em;
+    }
+}

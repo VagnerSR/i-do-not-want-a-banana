@@ -15,3 +15,12 @@
         height: auto;
     }
 }
+
+
+@media screen and (max-width: 1300px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+}
