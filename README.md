@@ -16,10 +16,6 @@ All this issues that I had hopefully with time I’ll learn how to fix and be ab
 
 ## Technologies:
 
-=======
-## Technologies:
-
-
 Project was made with React
 
 react-router to switch languages: https://reactrouter.com/
