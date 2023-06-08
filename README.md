@@ -1,4 +1,6 @@
 # i-do-not-want-a-banana
+
+
 [Link to the project](https://vagnersr.github.io/i-do-not-want-a-banana/)
 
 ![Project Screenshot](https://i.imgur.com/loG5nhi.png)
@@ -11,7 +13,12 @@ I used React with Javascript, that’s what I was learning and I wanted to pract
 All this issues that I had hopefully with time I’ll learn how to fix and be able to really do what I want it but for now it is what it is ^^.
 
 
+
 ## Technologies:
+
+=======
+## Technologies:
+
 
 Project was made with React
 
@@ -22,6 +29,7 @@ react-beautiful-dnd to make the banana list: https://github.com/atlassian/react-
 react-icon for icons: https://react-icons.github.io/react-icons
 
 react-howler for sounds: https://github.com/goldfire/howler.js/
+
 
 
 ## More information
